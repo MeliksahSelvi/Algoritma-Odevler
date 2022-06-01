@@ -31,11 +31,12 @@
 - Worst Case: Aradığımız sayının sonda olması **O(n^2)**
 - Best Case: Aradığımız sayının dizinin en başında olması **O(n)**
 ```
-## 4->
+## 4-> 18 sayısı hangi casedir?
 ```
 - [2,6,16,18,22,27] 18 sayısı ortada oldugundan Average Case'dir.
+```
 
-
+```
 - [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 - [7,3,5,8,2,9,4,15,6] 7 sayısını ele alarak karşılaştıracağız.
 - [2,3,5,8,7,9,4,15,6] En küçük sayı olan 2'yi buldu ve 7 ile yer değiştirdi.Şimdi 3 sayısını ele alacağız.
