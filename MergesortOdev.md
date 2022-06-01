@@ -3,6 +3,6 @@
 ## Dizinin Bölünme Aşamaları
 
 ```
-|16|
+| 16 | | 21 | | 11 |
 
 ```
