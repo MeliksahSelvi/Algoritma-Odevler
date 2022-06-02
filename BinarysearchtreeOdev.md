@@ -5,7 +5,7 @@
 Root burada 7 dir.Aşağı katmanlara inildiğinde root devam ettiğimiz yönde bir sonraki eleman olacaktır.
 5 sayısı 7 den küçük soluna gelecek.
 
-  |  | 7 | | 
-  |- | - |-|
-  |5 | - |-|
+|     Açıklama    |  |  |  |
+|--               |- |- |- |
+|**root=7**       |  | 7|  |
 ```
